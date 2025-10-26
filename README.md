@@ -13,16 +13,18 @@ Hi, I'm Adji Dharmawan
 <hr>
 
 ```
-Adji-Dharmawan@github
+aDJi2003@github
 -------------------------
 💻 A data engineer passionate about Data Science
-📚 I'm pursuing Bachelors in Infromation Engineering from the Universitas Gadjah Mada
+📚 I'm pursuing Bachelors in Information Engineering
 🔭 I like automating things and building data pipelines
 🌱 Currently pursuing Machine Learning
 💡 Strong interest in Big Data, Cloud Computing, and DevOps
+🌟 Main languages: Python, Scala, Javascript
 📜 Advocate for Open Source, Innovation, and Automation
 💬 Talk to me about Data, Memes, and Anime
-🎵 Love metal, lofi, jazz and soft music
+🎵 Love lofi, jazz, and soft music
+💖 In a complicated relationship with @xxxxxyyy
 ```
 <hr>
 
@@ -51,7 +53,9 @@ Adji-Dharmawan@github
 </p>
 
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
-<hr>
+
+<hr/>
+
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
