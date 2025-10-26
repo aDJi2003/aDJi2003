@@ -52,7 +52,7 @@ aDJi2003@github
     </a>
 </p>
 
-**If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
+<p align="center"><b>If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.</b></p>
 
 <hr/>
 
