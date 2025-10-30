@@ -20,7 +20,7 @@ aDJi2003@github
 🔭 I like automating things and building data pipelines
 🌱 Currently pursuing Machine Learning
 💡 Strong interest in Big Data, Cloud Computing, and DevOps
-🌟 Main languages: Python, Scala, Javascript
+🌟 Main languages: Python, Java, Scala, Javascript
 📜 Advocate for Open Source, Innovation, and Automation
 💬 Talk to me about Data, Memes, and Anime
 🎵 Love lofi, jazz, and soft music
@@ -30,9 +30,12 @@ aDJi2003@github
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,git,python,scala" />
+        <img src="https://skillicons.dev/icons?i=linux,git" />
     </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="45" height="45"/>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,java,scala" />
+    </a>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
     </a>
